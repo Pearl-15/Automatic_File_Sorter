@@ -21,7 +21,7 @@ To organize the files, we first create separate folders:
 - 📂 `image_files/` → For all **image** files (e.g., `.png`)
 - 📂 `csv_files/` → For all **CSV** files (e.g., `.csv`)
 - 📂 `excel_files/` → For all **Excel** files (e.g., `.xlsx`)
-- 📂 `text_files/` → For all **Excel** files (e.g., `.txt`)
+- 📂 `text_files/` → For all **Text** files (e.g., `.txt`)
 
 ![Creating Folders](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/step_1.png)
 
@@ -30,8 +30,9 @@ To organize the files, we first create separate folders:
 ## 🚀 Step 2: Move Files into Relative Folders
 Once the folders are created, the files are moved accordingly:
 - **All `.csv` files** → `csv_files/`
-- **All `.xlsx` and `.xls` files** → `excel_files/`
-- **All `.png`, `.jpg`, and `.jpeg` files** → `image_files/`
+- **All `.xlsx` files** → `excel_files/`
+- **All `.png` files** → `image_files/`
+- **All `.txt` files** → `text_files/`
 
 ![After Organization](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/after_sorted_files.png)
 
