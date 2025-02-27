@@ -2,9 +2,44 @@
 This is a repo of automatic file sorter written with python
 
 # Usecase
+Automatic File Organization
 
-![Before](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/before_sorting_files.png)
+# File Organization Workflow
+This guide explains the process of organizing files that were previously mixed in a **documents** folder. The goal is to improve file management by categorizing them into relevant folders.
 
-![Step_1](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/step_1.png)
+---
 
-![After](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/after_sorted_files.png)
+## 📌 Before: Unorganized Files
+Initially, all files were stored together in a single folder, making it difficult to manage.
+
+### **Before**
+![Before Organization](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/before_sorting_files.png)
+
+---
+
+## 🛠 Step 1: Create Folders
+To organize the files, we first create separate folders:
+- 📂 `image_files/` → For all **image** files (e.g., `.png`)
+- 📂 `csv_files/` → For all **CSV** files (e.g., `.csv`)
+- 📂 `excel_files/` → For all **Excel** files (e.g., `.xlsx`)
+- 📂 `text_files/` → For all **Excel** files (e.g., `.txt`)
+
+### **Step 1**
+![Creating Folders](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/step_1.png)
+
+---
+
+## 🚀 Step 2: Move Files into Relative Folders
+Once the folders are created, the files are moved accordingly:
+- **All `.csv` files** → `csv_files/`
+- **All `.xlsx` and `.xls` files** → `excel_files/`
+- **All `.png`, `.jpg`, and `.jpeg` files** → `image_files/`
+
+### **Step 2 (After)**
+![After Organization](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/after_sorted_files.png)
+
+---
+
+### ✅ **Final Outcome**
+The files are now well-organized, making it easier to find and manage them efficiently.
+
