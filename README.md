@@ -12,7 +12,6 @@ This guide explains the process of organizing files that were previously mixed i
 ## 📌 Before: Unorganized Files
 Initially, all files were stored together in a single folder, making it difficult to manage.
 
-### **Before**
 ![Before Organization](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/before_sorting_files.png)
 
 ---
@@ -24,7 +23,6 @@ To organize the files, we first create separate folders:
 - 📂 `excel_files/` → For all **Excel** files (e.g., `.xlsx`)
 - 📂 `text_files/` → For all **Excel** files (e.g., `.txt`)
 
-### **Step 1**
 ![Creating Folders](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/step_1.png)
 
 ---
@@ -35,7 +33,6 @@ Once the folders are created, the files are moved accordingly:
 - **All `.xlsx` and `.xls` files** → `excel_files/`
 - **All `.png`, `.jpg`, and `.jpeg` files** → `image_files/`
 
-### **Step 2 (After)**
 ![After Organization](https://github.com/Pearl-15/Automatic_File_Sorter/blob/main/images/after_sorted_files.png)
 
 ---
